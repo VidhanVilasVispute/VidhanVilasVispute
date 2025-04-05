@@ -14,8 +14,8 @@ Aspiring to build scalable solutions while exploring cybersecurity and modern in
   <a href="https://www.youtube.com/@VidhanVispute-o5y">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
-  <a href="www.linkedin.com/in/vidhan-vispute-cyberstack-titan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+  <a href="https://www.linkedin.com/in/vidhan-vispute-cyberstack-titan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vidhan%20Vispute-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
@@ -33,8 +33,8 @@ Aspiring to build scalable solutions while exploring cybersecurity and modern in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/VidhanVilasVispute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="www.linkedin.com/in/vidhan-vispute-cyberstack-titan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vidhan-vispute-cyberstack-titan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/vidhan_vispute/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@VidhanVispute-o5y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
