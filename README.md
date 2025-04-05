@@ -14,7 +14,7 @@ Aspiring to build scalable solutions while exploring cybersecurity and modern in
   <a href="https://www.youtube.com/@VidhanVispute-o5y">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
-  <a href="www.linkedin.com/in/vidhan-vispute-cyberstack-titan">
+  <a href="www.linkedin.com/in/vidhan-vispute-cyberstack-titan/">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
