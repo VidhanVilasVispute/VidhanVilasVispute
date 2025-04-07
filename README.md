@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/@VidhanVispute-o5y">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
-  <a href="https://www.linkedin.com/in/vidhan-vispute-cyberstack-titan/">
+  <a href="https://www.linkedin.com/in/vidhanvispute">
     <img src="https://img.shields.io/badge/LinkedIn-Vidhan%20Vispute-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
@@ -32,7 +32,7 @@ Full-stack developer with expertise in Java, .NET, and MERN stack technologies. 
 ## Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/vidhan-vispute-cyberstack-titan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vidhanvispute" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@VidhanVispute-o5y" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
   <a href="https://www.instagram.com/vidhan_vispute/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
